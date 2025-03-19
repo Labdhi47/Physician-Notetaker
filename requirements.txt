@@ -1,10 +1,9 @@
 streamlit
 spacy
-torch
 transformers
-scispacy
-en_core_web_sm
-pygments
-mdurl
-markdown-it-py
-rich
+torch
+scipy
+scikit-learn
+numpy
+pandas
+allenai-longformer
