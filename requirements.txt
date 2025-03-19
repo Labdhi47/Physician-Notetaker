@@ -3,7 +3,7 @@ spacy==3.7.2
 torch==2.2.1
 transformers==4.39.1
 scispacy==0.5.4
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
 pygments==2.19.1
 mdurl==0.1.2
 markdown-it-py==3.0.0
