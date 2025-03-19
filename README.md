@@ -92,7 +92,5 @@ python main.py
 - Apply **rule-based heuristics** for structured section generation.
 - Leverage **weakly supervised learning** using partially labeled SOAP notes.
 
----
 
-Feel free to modify or expand upon this README as needed! 🚀
 
