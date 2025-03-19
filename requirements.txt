@@ -4,3 +4,7 @@ torch
 transformers
 scispacy
 en_core_web_sm
+pygments
+mdurl
+markdown-it-py
+rich
